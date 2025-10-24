@@ -23,6 +23,6 @@ Count: 5
 **Challenge:** Don't allow count to go below 0
 
 ## Console Output
-![Day 3: Simple Counter Task 1:]()
+![Day 3: Simple Counter Task 1:](https://github.com/user-attachments/assets/a1f8994f-0cbf-4f7b-8df9-1ee483a5d2ae)
 
 
